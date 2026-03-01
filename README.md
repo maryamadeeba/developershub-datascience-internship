@@ -134,9 +134,9 @@ jupyter>=1.0.0
 
 ## 👤 Author
 
-**[Your Name]**  
+**Maryam Adeeba**  
 Data Science & Analytics Intern — DevelopersHub Corporation  
-Due Date: 23rd March, 2026
+Due Date: 2nd March, 2026
 
 ---
 
